@@ -10,7 +10,7 @@
 ### Project 4 -> [Guess the Word App](https://github.com/edaersu/Udacity-Kotlin-Developer-Nanodegree-Projects/tree/master/course1_projects/GuessTheWord)
 <img src="course1_projects/github/guess-the-word.gif"  width=400 height=200 style='object-fit: contain'> <br>
 
-### ✓ Course Completion Project-> Shoe Store App
+### ✓ Course Completion Project-> [Shoe Store App](https://github.com/edaersu/Udacity-Shoe-Store-Inventory-App)
 
 ### .
 ### .
