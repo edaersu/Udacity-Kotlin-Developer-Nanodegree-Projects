@@ -12,6 +12,13 @@
 
 ### ✓ Course Completion Project-> [Shoe Store App](https://github.com/edaersu/Udacity-Shoe-Store-Inventory-App)
 
+## ➡️ Course 2: Developing Android Apps with Kotlin - Part 2
+### Project 1 -> [Sleep Tricker](https://github.com/edaersu/Udacity-Kotlin-Developer-Nanodegree-Projects/tree/master/course2_projects/SleepApp)
+<img src="course2_projects/SleepApp/github/sleep.gif"  width=200 height=400 style='object-fit: contain'> <br>
+### Project 2 -> [Mars Real Estate](https://github.com/edaersu/Udacity-Kotlin-Developer-Nanodegree-Projects/tree/master/course2_projects/MarsRealEstate)
+<img src="course2_projects/MarsRealEstate/github/mars.gif"  width=200 height=400 style='object-fit: contain'> <br>
+
+
 ### .
 ### .
 ### .
