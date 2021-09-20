@@ -17,6 +17,8 @@
 <img src="course2_projects/SleepApp/github/sleep.gif"  width=200 height=400 style='object-fit: contain'> <br>
 ### Project 2 -> [Mars Real Estate](https://github.com/edaersu/Udacity-Kotlin-Developer-Nanodegree-Projects/tree/master/course2_projects/MarsRealEstate)
 <img src="course2_projects/MarsRealEstate/github/mars.gif"  width=200 height=400 style='object-fit: contain'> <br>
+### Project 3 -> [Video App](https://github.com/edaersu/Udacity-Kotlin-Developer-Nanodegree-Projects/tree/master/course2_projects/Videos)
+<img src="course2_projects/Videos/github/videos.png"  width=200 height=400 style='object-fit: contain'> <br>
 
 
 ### .
