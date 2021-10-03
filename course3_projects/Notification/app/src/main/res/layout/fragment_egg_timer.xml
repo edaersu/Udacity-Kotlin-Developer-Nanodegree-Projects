@@ -7,7 +7,7 @@
 
         <variable
             name="eggTimerViewModel"
-            type="com.example.android.eggtimernotifications.ui.EggTimerViewModel" />
+            type="com.example.notification.ui.EggTimerViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -48,7 +48,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="32dp"
-            android:checked="@{eggTimerViewModel.isAlarmOn}"
+                android:checked="@{eggTimerViewModel.isAlarmOn}"
             android:onCheckedChanged="@{(button, on)-> eggTimerViewModel.setAlarm(on)}"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
