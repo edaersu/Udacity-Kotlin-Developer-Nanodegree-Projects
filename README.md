@@ -19,7 +19,19 @@
 <img src="course2_projects/MarsRealEstate/github/mars.gif"  width=200 height=400 style='object-fit: contain'> <br>
 ### Project 3 -> [Video App](https://github.com/edaersu/Udacity-Kotlin-Developer-Nanodegree-Projects/tree/master/course2_projects/Videos)
 <img src="course2_projects/Videos/github/videos.png"  width=200 height=400 style='object-fit: contain'> <br>
+### ✓ Course Completion Project-> [Asteroid Radar App](https://github.com/edaersu/Udacity-Asteroid-Radar-App)
 
+
+## ➡️ Course 3: Advanced Android Apps with Kotlin - Part 1
+### Project 1 -> [Notification](https://github.com/edaersu/Udacity-Kotlin-Developer-Nanodegree-Projects/tree/master/course3_projects/Notification)
+<img src="course3_projects/github/notification.gif"  width=200 height=400 style='object-fit: contain'> <br>
+### Project 2 -> [Custom Fan Controller](https://github.com/edaersu/Udacity-Kotlin-Developer-Nanodegree-Projects/tree/master/course3_projects/CustomFanController)
+<img src="course3_projects/github/fancontroller.gif"  width=200 height=400 style='object-fit: contain'> <br>
+### Project 3 -> [Property Animation](https://github.com/edaersu/Udacity-Kotlin-Developer-Nanodegree-Projects/tree/master/course3_projects/PropertyAnimation)
+<img src="course3_projects/github/animation.gif"  width=200 height=400 style='object-fit: contain'> <br>
+### Project 3 -> [Motion Layout](https://github.com/edaersu/Udacity-Kotlin-Developer-Nanodegree-Projects/tree/master/course3_projects/MotionLayout)
+<img src="course3_projects/github/motion.jpg"  width=200 height=400 style='object-fit: contain'> <br>
+### ✓ Course Completion Project-> [Load App](https://github.com/edaersu/Udacity-LoadApp)
 
 ### .
 ### .
